@@ -29,6 +29,8 @@ The model was trained on a private medical MCQ dataset ( containing a mixture of
 ```
 The data was pre-processed into an instruction format suitable for Mistral-7B-Instruct.
 
+You can find the train and test data here : [Kaggle_data](https://www.kaggle.com/datasets/bstejas/godel-data-2)
+
 * [Mistral AI](https://mistral.ai/) for the base model.
 * The `unsloth` team for their memory-efficient training library.
 * The Hugging Face ecosystem.
